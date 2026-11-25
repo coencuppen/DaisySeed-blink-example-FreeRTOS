@@ -1,3 +1,8 @@
+Blink/.codex
+Blink/build
+Blink/FreeRTOS/FreeRTOS-Cellular-interface
+Blink/FreeRTOS/FreeRTOS-Plus-TCP
+
 # Prerequisites
 *.d
 
